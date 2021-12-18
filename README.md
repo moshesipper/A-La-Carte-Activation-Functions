@@ -7,7 +7,7 @@ All my papers are available through [my website](http://www.moshesipper.com/).
 * `alacarte.py`: main algorithm
 * `activation_layers.py`: define PyTorch math functions as activation layers
 
-If you wish to cite the paper:
+If you wish to cite this work:
 ```
 @article{sipper2021neural,
   title={Neural Networks with {\`A} La Carte Selection of Activation Functions},
