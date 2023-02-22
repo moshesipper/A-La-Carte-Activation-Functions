@@ -5,7 +5,9 @@ Code accompanying the paper: [M. Sipper, "Neural Networks with À La Carte Selec
 * `alacarte.py`: main algorithm
 * `activation_layers.py`: define PyTorch math functions as activation layers
 
-If you wish to cite this work:
+### Citation
+
+Citations are always appreciated 😊:
 ```
 @article{sipper2021neural,
   title={Neural Networks with {\`A} La Carte Selection of Activation Functions},
